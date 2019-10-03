@@ -1,2 +1,0 @@
-# alkaet.github.io
-homepage
